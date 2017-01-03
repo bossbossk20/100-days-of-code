@@ -7,7 +7,7 @@
 
 **Thoughts:** I created my 1st page is video background by using webview in ui controller and I've learn how to login Facebook by using Facebook SDK but it still not working yet.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [let's eat iOS app](http://github.com/bossbossk20/lets-eat)
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)

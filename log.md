@@ -7,6 +7,13 @@
 
 **Thoughts:** I created my 1st page is video background by using webview in ui controller and I've learn how to login Facebook by using Facebook SDK but it still not working yet.
 
+
+### Day 2: January 04, 2017
+
+** Today's Progress **: I added Facebook in my app
+
+** Thoughts:** I've added Facebook login by using Facebook SDK but not save Facebook ID yet.
+
 **Link to work:** [let's eat iOS app](http://github.com/bossbossk20/lets-eat)
 
 **Link(s) to work**
